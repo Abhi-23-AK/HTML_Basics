@@ -1,0 +1,105 @@
+.A{
+    
+    text-align: center;
+}
+
+.Highlight{
+    background-color: rgb(245, 176, 197);
+    color:white
+}
+
+.B{
+    background-color: rgb(237, 147, 115);
+    color:white
+}
+
+.c{
+    background-color: rgb(145, 246, 131);
+    color:white
+}
+.d{
+    background-color: rgb(236, 106, 180);
+    color:white
+}
+.e{
+    background-color: rgb(117, 112, 249);
+    color:white
+}
+.f{
+    background-color: rgb(89, 209, 239);
+    color:white
+}
+.g{
+    background-color: rgb(206, 115, 237);
+    color:white
+}
+
+
+.one{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+.two{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+.three{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+
+
+.four{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+.five{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+.six{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+.seven{
+    background-color:white;
+    color: blue;
+    text-align: center;
+}
+
+.only{
+    text-align: center;
+}
+body{
+    text-align: center;
+    border-color: black;
+    border-width: 10px;
+    border-height: 10px;
+}
+table{
+    margin: 0 auto;
+    
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+}
+.abhi{
+
+text-align: center;
+}
+.call{
+    text-align: center;
+}
